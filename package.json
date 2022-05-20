@@ -1,0 +1,20 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc app.ts --outFile app.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwenc/typescript-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xwenc/typescript-course/issues"
+  },
+  "homepage": "https://github.com/xwenc/typescript-course#readme"
+}
