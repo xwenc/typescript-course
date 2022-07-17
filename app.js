@@ -1,1 +1,3 @@
-console.log("Hello World from TypeScript");
+function add(a, b) {
+    return a + b;
+}
